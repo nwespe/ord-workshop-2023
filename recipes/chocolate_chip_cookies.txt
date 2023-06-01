@@ -1,6 +1,6 @@
 # Classic Toll House recipe for chocolate chip cookies
 # Adapted from https://www.nestle.com/stories/timeless-discovery-toll-house-chocolate-chip-cookie-recipe
-# Converted most volume measurements to weight in grams, converted bakingg temperature to Celsius
+# Converted most volume measurements to weight in grams, converted baking temperature to Celsius
 # author: Nichole Wespe
 
 Ingredients
