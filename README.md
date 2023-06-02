@@ -2,5 +2,12 @@
 
 Basel, 02 June 2023
 
-Participants:
-sueki-a
+### Participants:
+
+Friederike Born
+
+Sandro Jakonia
+
+Pascal Lorentz
+
+Anna Sueki
