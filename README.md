@@ -3,3 +3,4 @@
 Basel, 02 June 2023
 
 Participants:
+Fabienne Estermann: fabi-est
