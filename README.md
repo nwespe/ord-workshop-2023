@@ -2,5 +2,18 @@
 
 Basel, 02 June 2023
 
-Participants:
-LaGerlach
+### Participants:
+
+Friederike Born
+
+Sandro Jakonia
+
+Pascal Lorentz
+
+Anna Sueki
+
+Fabian
+
+Pablo
+
+Laura Gerlach
