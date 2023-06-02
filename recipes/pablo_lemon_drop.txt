@@ -1,0 +1,8 @@
+#Pablo : boozy cocktail lemon drop
+Vol = 20ml
+In a container
+add 2 vol of vodka
+add 1/2 vol of triple sec
+add 2 vol of fresh lemon juice
+add 2 vol of cane syrup
+Done!
