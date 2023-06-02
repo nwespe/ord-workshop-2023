@@ -2,7 +2,10 @@
 
 Basel, 02 June 2023
 
-Participants:
+### Participants:
 
 Friederike Born
+
 Sandro Jakonia
+
+Pascal Lorentz
